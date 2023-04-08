@@ -4,5 +4,6 @@ A collection of projects based on various ML models.
 - Random Forest Regressor*
 - Random Forest Classifier*
 - Linear Regression (to be)
+- NeuralNetwork (to be)
 
 *based on Kaggle tutorials
